@@ -1,0 +1,8 @@
+import os
+
+TELEGRAM_BOT_TOKEN = os.getenv('TELEGRAM_BOT_TOKEN')
+OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
+OPENAI_URL = os.getenv('OPENAI_URL')
+CHANNEL_ID = os.getenv('CHANNEL_ID')
+SEARCH_QUERY = os.getenv('SEARCH_QUERY')
+CHECK_INTERVAL = int(os.getenv('CHECK_INTERVAL'))

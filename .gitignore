@@ -1,0 +1,10 @@
+o1mini.md
+omini.md
+.venv
+.vscode
+*.ipynb
+*.db
+__pycache__
+myenvs
+*.pdf
+*.log
