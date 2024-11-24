@@ -12,6 +12,7 @@ aiosqlite = "^0.20.0"
 openai = "^1.54.4"
 python-telegram-bot = "20.3"
 pypdf2 = "^3.0.1"
+pygithub = "^2.5.0"
 
 
 [tool.poetry.group.dev.dependencies]
